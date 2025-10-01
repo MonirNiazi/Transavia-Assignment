@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Transavia.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b9d8d4e4c014915309ebda005da8f79a30af7be")]
 [assembly: System.Reflection.AssemblyProductAttribute("Transavia.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Transavia.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

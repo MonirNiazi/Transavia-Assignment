@@ -7,13 +7,13 @@
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a2ea7190_002D6be2_002D451c_002D91e8_002D9465f523dd6b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from &amp;lt;Transavia.Tests&amp;gt;" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;Project Location="/Users/niazi/Transavia/Transavia.Tests" Presentation="&amp;lt;Transavia.Tests&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee2b6ee6_002De82d_002D4420_002Dbb5b_002D5f8bc672983d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAssignment001_WerkenbijTransaviaJobAlert" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee2b6ee6_002De82d_002D4420_002Dbb5b_002D5f8bc672983d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAssignment001_WerkenbijTransaviaJobAlert" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;NUnit3x::CE52DF3D-5FE4-4BA3-B095-9A32E969ADAE::net8.0::Transavia.Tests.Features.WerkenbijTransaviaJobAlertFeature.TC01_SubscribeForJobAlertAtWerkenbijTransavia&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7995556_002Dd82c_002D40af_002Dbc3d_002D7d5b64a351de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestAssignment001_WerkenbijTransaviaJobAlert #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f7995556_002Dd82c_002D40af_002Dbc3d_002D7d5b64a351de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestAssignment001_WerkenbijTransaviaJobAlert #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
-    &lt;TestId&gt;NUnit3x::CE52DF3D-5FE4-4BA3-B095-9A32E969ADAE::net8.0::Transavia.Tests.Features.WerkenbijTransaviaJobAlertFeature&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::CE52DF3D-5FE4-4BA3-B095-9A32E969ADAE::net8.0::Transavia.Tests.Features.JobAlertFeature.TC01_SubscribeForJobAlertAtWerkenbijTransavia&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

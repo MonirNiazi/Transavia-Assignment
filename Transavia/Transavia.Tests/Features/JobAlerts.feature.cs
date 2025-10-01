@@ -18,18 +18,18 @@ namespace Transavia.Tests.Features
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Reqnroll", "3.0.0.0")]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::NUnit.Framework.TestFixtureAttribute()]
-    [global::NUnit.Framework.DescriptionAttribute("WerkenbijTransavia Job Alert")]
+    [global::NUnit.Framework.DescriptionAttribute("Job Alert")]
     [global::NUnit.Framework.FixtureLifeCycleAttribute(global::NUnit.Framework.LifeCycle.InstancePerTestCase)]
-    public partial class WerkenbijTransaviaJobAlertFeature
+    public partial class JobAlertFeature
     {
         
         private global::Reqnroll.ITestRunner testRunner;
         
         private static string[] featureTags = ((string[])(null));
         
-        private static global::Reqnroll.FeatureInfo featureInfo = new global::Reqnroll.FeatureInfo(new global::System.Globalization.CultureInfo("en-US"), "Features", "WerkenbijTransavia Job Alert", null, global::Reqnroll.ProgrammingLanguage.CSharp, featureTags, InitializeCucumberMessages());
+        private static global::Reqnroll.FeatureInfo featureInfo = new global::Reqnroll.FeatureInfo(new global::System.Globalization.CultureInfo("en-US"), "Features", "Job Alert", null, global::Reqnroll.ProgrammingLanguage.CSharp, featureTags, InitializeCucumberMessages());
         
-#line 1 "TC001-JobAlerts.feature"
+#line 1 "JobAlerts.feature"
 #line hidden
         
         [global::NUnit.Framework.OneTimeSetUpAttribute()]
@@ -105,7 +105,7 @@ namespace Transavia.Tests.Features
         
         private static global::Reqnroll.Formatters.RuntimeSupport.FeatureLevelCucumberMessages InitializeCucumberMessages()
         {
-            return new global::Reqnroll.Formatters.RuntimeSupport.FeatureLevelCucumberMessages("Features/TC001-JobAlerts.feature.ndjson", 3);
+            return new global::Reqnroll.Formatters.RuntimeSupport.FeatureLevelCucumberMessages("Features/JobAlerts.feature.ndjson", 3);
         }
         
         [global::NUnit.Framework.TestAttribute()]

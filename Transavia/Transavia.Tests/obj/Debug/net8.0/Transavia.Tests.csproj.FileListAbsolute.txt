@@ -226,3 +226,4 @@
 /Users/niazi/Transavia-Assignment/Transavia/Transavia.Tests/obj/Debug/net8.0/Transavia.Tests.pdb
 /Users/niazi/Transavia-Assignment/Transavia/Transavia.Tests/obj/Debug/net8.0/Transavia.Tests.genruntimeconfig.cache
 /Users/niazi/Transavia-Assignment/Transavia/Transavia.Tests/obj/Debug/net8.0/ref/Transavia.Tests.dll
+/Users/niazi/Transavia-Assignment/Transavia/Transavia.Tests/obj/Debug/net8.0/Transavia.Tests.sourcelink.json
