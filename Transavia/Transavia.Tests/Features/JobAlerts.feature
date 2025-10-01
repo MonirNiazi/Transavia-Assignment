@@ -1,4 +1,4 @@
-Feature: Job Alert
+Feature: Job Alerts
 
     Scenario: TC01 - Subscribe for Job Alert at WerkenbijTransavia
         Given I am on https://werkenbijtransavia.com
